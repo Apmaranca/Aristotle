@@ -1,20 +1,20 @@
-# {{ NICOMACHEAN ETHICS }}
+#  NICOMACHEAN ETHICS 
 
-{{ We're in process of getting a first version of the text }}
+ We're in process of getting a first version of the text 
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
 ## Contributors
 
-* {{ Alfredo Portinari Maranca  }}
+*  Alfredo Portinari Maranca  
 
 ## Source
 
-{{ We'ew working on the Laterza and Loeb editions.}}
+ We'ew working on the Laterza and Loeb editions.
 
 ## Progress
 
-{{ none yet }}
+ none yet 
 
 ## License
 
