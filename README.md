@@ -1,20 +1,20 @@
-# {{ NAME OF TEXT }}
+# {{ NICOMACHEAN ETHICS }}
 
-{{ describe what is being done, the process being followed, and who is involved in the work }}
+{{ We're in process of getting a first version of the text }}
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
 ## Contributors
 
-* {{ list of people who have contributed to this repo }}
+* {{ Alfredo Portinari Maranca  }}
 
 ## Source
 
-{{ indicate original source(s) of text: scans or existing transcriptions }}
+{{ We'ew working on the Laterza and Loeb editions.}}
 
 ## Progress
 
-{{ indicate progress, or remove entire section if done }}
+{{ none yet }}
 
 ## License
 
