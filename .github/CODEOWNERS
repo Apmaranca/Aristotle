@@ -1,0 +1,27 @@
+# This is an example of a CODEOWNERS file
+
+# Default owners for everything in the repo
+*       @default-owner
+
+# Order is important; the last matching pattern takes the most precedence.
+
+# To specify code owners for a specific directory
+/docs/          @documentation-team
+
+# To specify code owners for a specific file type
+*.js            @javascript-team
+
+# To specify code owners for specific files
+/README.md      @project-lead
+
+# You can also use email addresses if they are associated with a GitHub account
+/CODE_OF_CONDUCT.md    user@example.com
+
+# Using teams in an organization (syntax: org/team_name)
+/tests/         @myorg/testing-team
+
+# To specify code owners for nested directories, use the '**' pattern
+/src/**/test/   @testing-team
+
+# Exclude specific files or directories by preceding with an exclamation mark (!)
+# Note: Exclusion patterns are not supported by GitHub's CODEOWNERS file as of the last update.
