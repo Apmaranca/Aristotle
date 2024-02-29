@@ -1,9 +1,9 @@
 Index of Marks 
 ("d" means a decimal number, "C" means an uppercase Latin letter, "c" means a lowercase Latin letter)
 {p} Each text part finalized by period or semicolon.
-{sl dd} source line number "d"
-{dddda} odd page number dddd
-{ddddb} even page number dddd
+{sl dd} source bekker line number "d"
+{dddda} source odd bekker page number dddd
+{ddddb} source even bekker page number dddd
 {ss dd} section as John Alexander Stweart version. 
 {sp1 CC} book CC
 {sp2 dd} part dd
