@@ -15,16 +15,26 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
  
 ## Progress
 
-Book 1 - Formatted
-Book 2 - To be formatted
-Book 3 - To be formatted
-Book 4 - Not yet in file. 
-Book 5 - Not yet in file. 
-Book 6 - Not yet in file. 
-Book 7 - Not yet in file. 
-Book 8 - Not yet in file. 
-Book 9 - Not yet in file. 
-Book 10 - Not yet in file.
+Book 1 - Formatted  
+
+Book 2 - To be formatted  
+
+Book 3 - To be formatted  
+
+Book 4 - Not yet in file.   
+
+Book 5 - Not yet in file.   
+
+Book 6 - Not yet in file.  
+
+Book 7 - Not yet in file.  
+
+Book 8 - Not yet in file.  
+
+Book 9 - Not yet in file.   
+
+Book 10 - Not yet in file.  
+
 
 ## License
 
